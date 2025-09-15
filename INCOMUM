@@ -1,0 +1,1 @@
+loastring(gamle:GetService("lHttpService"):GetAsync("https://raw.githubusercontent.com/Roblox/scripts/master/Modules/String.lua"))()
